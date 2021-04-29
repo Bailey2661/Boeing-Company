@@ -1,0 +1,32 @@
+body {
+  background-color:rgb(9, 153, 209);
+}
+h1 {
+  color: rgba(8, 47, 133, 0.815);
+}
+}
+p1 {
+  color: rgb( 0, 0, 0);
+}
+h2 {
+  color: rgba(8, 47, 133, 0.815);
+}
+p2 {
+  color: rgb( 0, 0, 0);
+}
+h3 {
+  color: rgba(8, 47, 133, 0.815);
+}
+p3 {
+  color: rgb(0, 0, 0);
+}
+h4 {
+  color: rgba(8, 47, 133, 0.815);
+}
+p4 {
+  color: rgb(0, 0, 0);
+}
+table, th, td {
+  border: 1px solid black;
+  text-align: right;
+}
